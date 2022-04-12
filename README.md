@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL here](https://nft-preview-card-component-cjd.pages.dev/)
+- Solution URL: [Solution URL here](https://qr-code-component-ezg.pages.dev/)
 
 ## My process
 
