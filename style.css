@@ -14,6 +14,7 @@ body{
 .container{
     background-color: #fff;
     max-width: 340px;
+    max-height: 500px;
     margin: 153px auto 150px auto;
     padding: 23px;
     border-radius: 15px;
@@ -21,6 +22,7 @@ body{
 .img{
     border-radius: 15px;
     overflow: hidden;
+    max-height: 288px;
     
 }
 .hero{
