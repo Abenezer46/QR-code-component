@@ -31,12 +31,10 @@ body{
 .title{
     margin-top: 30px;
     margin-bottom: 19px;
-    font-weight: 700;
 }
 
 .text{
     margin-bottom: 44px;
-    font-weight: 400;
     color: hsl(220, 15%, 55%);
 }
 
