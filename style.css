@@ -16,7 +16,7 @@ body{
     max-width: 340px;
     max-height: 500px;
     margin: 153px auto 150px auto;
-    padding: 23px;
+    padding: 16px;
     border-radius: 15px;
 }
 .img{
@@ -36,7 +36,7 @@ body{
 }
 
 .text{
-    margin-bottom: 44px;
+    margin-bottom: 28px;
     color: hsl(220, 15%, 55%);
 }
 
